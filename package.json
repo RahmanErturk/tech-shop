@@ -1,0 +1,23 @@
+{
+  "name": "tech-shop",
+  "version": "1.0.0",
+  "description": "## Test Info",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass -w scss/style.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahmanErturk/tech-shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahmanErturk/tech-shop/issues"
+  },
+  "homepage": "https://github.com/RahmanErturk/tech-shop#readme",
+  "dependencies": {
+    "sass": "^1.52.3"
+  }
+}
